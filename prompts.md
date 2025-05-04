@@ -124,3 +124,29 @@ Now, audit [YOUR BUSINESS NAME] and lay out the plan.
 I want you to help me create a concise and engaging presentation (no more than 5 slides) that explains a specific topic clearly. I will use Gamma.app to design the slides, so I need the actual content of each slide from you. Please return the presentation with a title, a one-sentence overview, and then for each slide, give me the slide title, one key sentence that captures the main message, and 2 to 4 bullet points with supporting information. You can optionally include a suggestion for a visual, chart, or image. End the presentation with a one-line closing slide like a thank you or next steps. Keep everything very concise—each bullet point should be under 15 words. Don’t add explanations, narration, or speaker notes. Stick to useful, specific content—no fluff. The topic of the presentation is: [insert topic here and give as much info as you can].
 
 Give me a presentation about how to use Al to create presentations. Basically, just give me all the content and information that I need in order to do it, but very short, like no more than five slides, be super quick. Basically, I want to create a presentation about using gamma.app along with ChotGPT to do the outline and then gamma.app to actually do the creation of it.
+
+-- --
+
+Subject:
+
+The subject should have (add details)
+
+Camera:
+
+Create a highly photorealistic image captured with a professional full-frame DSLR or mirrorless camera, using a prime lens with a wide aperture in natural lighting conditions.
+
+The lens is 50mm.
+
+The aperture is f/1.4.
+
+The camera perspective should simulate real lens behavior — include correct parallax, perspective compression or expansion (depending on focal length), and real-world framing such as candid compositions, slightly off-center focus, or over-the-shoulder framing. and real light scattering effects in transparent or reflective materials. Avoid excessive smoothness or symmetry.
+
+Background:
+
+Background includes realistic sky tone gradients or environmental lighting (e.g., golden hour sunlight, shade gradients), and background blur that follows true optical depth simulation. Colors must be balanced realistically, respecting white balance and real-world color grading, such as mild chromatic aberration near image edges. Ensure accurate anatomy, fabric folds, reflections, light bounce, and focus transitions.
+
+Realism:
+
+The image must contain authentic, real-world imperfections such as subtle lens distortions, natural grain/noise, bokeh depth of field effects, realistic lighting shadows and highlights, environmental reflections, and accurate ambient occlusion.
+
+This image should be indistinguishable from a photograph taken by a skilled photographer — even professional analysts and AI detection systems should be unable to identify it as AI-generated. The image must comply with all real-world physics and visual logic.
